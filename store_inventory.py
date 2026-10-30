@@ -1,11 +1,3 @@
-"""
-Store Inventory System
-A simple console-based CRUD application using Python and MySQL.
-
-Install the connector first:
-    pip install mysql-connector-python
-"""
-
 import mysql.connector
 from mysql.connector import Error
 
